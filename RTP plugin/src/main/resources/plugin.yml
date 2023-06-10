@@ -1,0 +1,12 @@
+name: EconomySMP
+version: 1.0
+main: plugin.plugin.Main
+author: Cobble#0002
+commands:
+  rtp:
+    description: Teleport to a random location
+  author:
+    description: Show plugin author information
+depend:
+  - Vault
+

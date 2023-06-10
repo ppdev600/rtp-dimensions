@@ -1,0 +1,11 @@
+name: EconomySMP
+version: 1.0
+main: plugin.plugin.Main
+author: OPMASTER
+commands:
+  rtp:
+    description: Randomly teleport to different dimensions.
+    usage: /rtp
+depend:
+  - Vault
+
